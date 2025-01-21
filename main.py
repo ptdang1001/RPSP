@@ -145,7 +145,7 @@ def main(args):
     n_cpu = cpu_count()
     print("\n cpu_count is {0}\n".format(n_cpu))
     print(
-        f"Ihe algorithm will run on {n_cpu} CPU/GPU cores in parallel. So you will see many logs in the console."
+        f"The algorithm will run on {n_cpu} CPU/GPU cores in parallel. So you will see many logs in the console."
     )
     # sleep for 3 seconds
     time.sleep(3)
