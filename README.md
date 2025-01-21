@@ -23,8 +23,8 @@ To set up the environment and install the required dependencies, follow these st
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/yourusername/your-repo-name.git](https://github.com/ptdang1001/RPSP.git
+    cd RPSP
     ```
 
 2. Create a conda environment using the `requirements.yml` file:
